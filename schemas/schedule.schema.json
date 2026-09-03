@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://hyeoz.github.io/match-diary-data/schemas/schedule.schema.json",
+  "title": "Match Diary KBO season schedule",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "season",
+    "dataVersion",
+    "generatedAt",
+    "source",
+    "stadiums",
+    "games"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "season": { "type": "integer", "minimum": 2024 },
+    "dataVersion": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "source": {
+      "type": "object",
+      "required": ["name", "url"],
+      "properties": {
+        "name": { "const": "KBO 공식 경기 일정" },
+        "url": { "type": "string", "format": "uri" }
+      },
+      "additionalProperties": false
+    },
+    "stadiums": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "shortName", "latitude", "longitude", "updatedAt"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "name": { "type": "string", "minLength": 1 },
+          "shortName": { "type": "string", "minLength": 1 },
+          "latitude": { "type": ["number", "null"] },
+          "longitude": { "type": ["number", "null"] },
+          "updatedAt": { "type": "string", "format": "date-time" }
+        },
+        "additionalProperties": false
+      }
+    },
+    "games": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "date",
+          "time",
+          "homeTeamId",
+          "awayTeamId",
+          "stadiumId",
+          "status",
+          "homeScore",
+          "awayScore",
+          "memo",
+          "updatedAt"
+        ],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+          "time": { "type": "string", "pattern": "^\\d{2}:\\d{2}$" },
+          "homeTeamId": { "type": "integer", "minimum": 1, "maximum": 10 },
+          "awayTeamId": { "type": "integer", "minimum": 1, "maximum": 10 },
+          "stadiumId": { "type": "string", "minLength": 1 },
+          "status": { "enum": ["scheduled", "final", "canceled", "postponed"] },
+          "homeScore": { "type": ["integer", "null"], "minimum": 0 },
+          "awayScore": { "type": ["integer", "null"], "minimum": 0 },
+          "memo": { "type": "string" },
+          "updatedAt": { "type": "string", "format": "date-time" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
+
