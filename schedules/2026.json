@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "dataVersion": "271e7d48a49dcb993c2d0387f2fabf66ff122261e8509e76f7da64ccfcdc35c4",
-  "generatedAt": "2026-09-03T13:11:29Z",
+  "dataVersion": "9dda27599fc7de62e70ad62ec44444d7b75a12604b2bd08e45533a636d8f39a3",
+  "generatedAt": "2026-09-03T18:17:57Z",
   "source": {
     "name": "KBO 공식 경기 일정",
     "url": "https://www.koreabaseball.com/Schedule/Schedule.aspx"
@@ -14,7 +14,7 @@
       "shortName": "창원",
       "latitude": 35.2225,
       "longitude": 128.5823,
-      "updatedAt": "2026-09-03T13:11:29Z"
+      "updatedAt": "2026-09-03T18:17:57Z"
     },
     {
       "id": "daegu",
@@ -22,7 +22,7 @@
       "shortName": "대구",
       "latitude": 35.8412,
       "longitude": 128.6812,
-      "updatedAt": "2026-09-03T13:11:29Z"
+      "updatedAt": "2026-09-03T18:17:57Z"
     },
     {
       "id": "daejeon",
@@ -30,7 +30,7 @@
       "shortName": "대전",
       "latitude": 36.3171,
       "longitude": 127.4292,
-      "updatedAt": "2026-09-03T13:11:29Z"
+      "updatedAt": "2026-09-03T18:17:57Z"
     },
     {
       "id": "gocheok",
@@ -38,7 +38,7 @@
       "shortName": "고척",
       "latitude": 37.4982,
       "longitude": 126.8671,
-      "updatedAt": "2026-09-03T13:11:29Z"
+      "updatedAt": "2026-09-03T18:17:57Z"
     },
     {
       "id": "gwangju",
@@ -46,7 +46,7 @@
       "shortName": "광주",
       "latitude": 35.1681,
       "longitude": 126.8891,
-      "updatedAt": "2026-09-03T13:11:29Z"
+      "updatedAt": "2026-09-03T18:17:57Z"
     },
     {
       "id": "incheon",
@@ -54,7 +54,7 @@
       "shortName": "랜더스필드",
       "latitude": 37.4369,
       "longitude": 126.6933,
-      "updatedAt": "2026-09-03T13:11:29Z"
+      "updatedAt": "2026-09-03T18:17:57Z"
     },
     {
       "id": "jamsil",
@@ -62,7 +62,7 @@
       "shortName": "잠실",
       "latitude": 37.5122,
       "longitude": 127.0719,
-      "updatedAt": "2026-09-03T13:11:29Z"
+      "updatedAt": "2026-09-03T18:17:57Z"
     },
     {
       "id": "pohang",
@@ -70,7 +70,7 @@
       "shortName": "포항",
       "latitude": null,
       "longitude": null,
-      "updatedAt": "2026-09-03T13:11:29Z"
+      "updatedAt": "2026-09-03T18:17:57Z"
     },
     {
       "id": "sajik",
@@ -78,7 +78,7 @@
       "shortName": "사직",
       "latitude": 35.194,
       "longitude": 129.0615,
-      "updatedAt": "2026-09-03T13:11:29Z"
+      "updatedAt": "2026-09-03T18:17:57Z"
     },
     {
       "id": "suwon",
@@ -86,7 +86,7 @@
       "shortName": "수원",
       "latitude": 37.2998,
       "longitude": 127.0097,
-      "updatedAt": "2026-09-03T13:11:29Z"
+      "updatedAt": "2026-09-03T18:17:57Z"
     }
   ],
   "games": [
@@ -8606,6 +8606,58 @@
       "updatedAt": "2026-09-03T06:09:48Z"
     },
     {
+      "id": "20260903HHKT0",
+      "date": "2026-09-03",
+      "time": "18:30",
+      "homeTeamId": 4,
+      "awayTeamId": 10,
+      "stadiumId": "suwon",
+      "status": "final",
+      "homeScore": 13,
+      "awayScore": 11,
+      "memo": "",
+      "updatedAt": "2026-09-03T18:17:57Z"
+    },
+    {
+      "id": "20260903LGOB0",
+      "date": "2026-09-03",
+      "time": "18:30",
+      "homeTeamId": 9,
+      "awayTeamId": 2,
+      "stadiumId": "jamsil",
+      "status": "final",
+      "homeScore": 0,
+      "awayScore": 1,
+      "memo": "",
+      "updatedAt": "2026-09-03T18:17:57Z"
+    },
+    {
+      "id": "20260903LTSS0",
+      "date": "2026-09-03",
+      "time": "18:30",
+      "homeTeamId": 7,
+      "awayTeamId": 8,
+      "stadiumId": "daegu",
+      "status": "final",
+      "homeScore": 2,
+      "awayScore": 3,
+      "memo": "",
+      "updatedAt": "2026-09-03T18:17:57Z"
+    },
+    {
+      "id": "20260903SKWO0",
+      "date": "2026-09-03",
+      "time": "18:30",
+      "homeTeamId": 3,
+      "awayTeamId": 1,
+      "stadiumId": "gocheok",
+      "status": "final",
+      "homeScore": 3,
+      "awayScore": 2,
+      "memo": "",
+      "updatedAt": "2026-09-03T18:17:57Z"
+    },
+    {
       "id": "kbo-2026-09-03-KIA-NC-changwon-18:30-regular-1",
       "date": "2026-09-03",
       "time": "18:30",
@@ -8616,58 +8668,6 @@
       "homeScore": null,
       "awayScore": null,
       "memo": "우천취소",
-      "updatedAt": "2026-09-03T13:11:29Z"
-    },
-    {
-      "id": "kbo-2026-09-03-LG-두산-jamsil-18:30-regular-1",
-      "date": "2026-09-03",
-      "time": "18:30",
-      "homeTeamId": 9,
-      "awayTeamId": 2,
-      "stadiumId": "jamsil",
-      "status": "final",
-      "homeScore": 0,
-      "awayScore": 0,
-      "memo": "",
-      "updatedAt": "2026-09-03T13:11:29Z"
-    },
-    {
-      "id": "kbo-2026-09-03-SSG-키움-gocheok-18:30-regular-1",
-      "date": "2026-09-03",
-      "time": "18:30",
-      "homeTeamId": 3,
-      "awayTeamId": 1,
-      "stadiumId": "gocheok",
-      "status": "final",
-      "homeScore": 0,
-      "awayScore": 0,
-      "memo": "",
-      "updatedAt": "2026-09-03T13:11:29Z"
-    },
-    {
-      "id": "kbo-2026-09-03-롯데-삼성-daegu-18:30-regular-1",
-      "date": "2026-09-03",
-      "time": "18:30",
-      "homeTeamId": 7,
-      "awayTeamId": 8,
-      "stadiumId": "daegu",
-      "status": "final",
-      "homeScore": 0,
-      "awayScore": 0,
-      "memo": "",
-      "updatedAt": "2026-09-03T13:11:29Z"
-    },
-    {
-      "id": "kbo-2026-09-03-한화-KT-suwon-18:30-regular-1",
-      "date": "2026-09-03",
-      "time": "18:30",
-      "homeTeamId": 4,
-      "awayTeamId": 10,
-      "stadiumId": "suwon",
-      "status": "final",
-      "homeScore": 0,
-      "awayScore": 0,
-      "memo": "",
       "updatedAt": "2026-09-03T13:11:29Z"
     },
     {
@@ -9035,7 +9035,7 @@
       "updatedAt": "2026-09-03T06:09:48Z"
     },
     {
-      "id": "kbo-2026-09-11-KT-롯데-sajik-18:30-regular-1",
+      "id": "20260911KTLT0",
       "date": "2026-09-11",
       "time": "18:30",
       "homeTeamId": 8,
@@ -9045,10 +9045,10 @@
       "homeScore": null,
       "awayScore": null,
       "memo": "",
-      "updatedAt": "2026-09-03T06:09:48Z"
+      "updatedAt": "2026-09-03T18:17:57Z"
     },
     {
-      "id": "kbo-2026-09-11-NC-한화-daejeon-18:30-regular-1",
+      "id": "20260911NCHH0",
       "date": "2026-09-11",
       "time": "18:30",
       "homeTeamId": 10,
@@ -9058,10 +9058,10 @@
       "homeScore": null,
       "awayScore": null,
       "memo": "",
-      "updatedAt": "2026-09-03T06:09:48Z"
+      "updatedAt": "2026-09-03T18:17:57Z"
     },
     {
-      "id": "kbo-2026-09-11-SSG-KIA-gwangju-18:30-regular-1",
+      "id": "20260911SKHT0",
       "date": "2026-09-11",
       "time": "18:30",
       "homeTeamId": 5,
@@ -9071,10 +9071,10 @@
       "homeScore": null,
       "awayScore": null,
       "memo": "",
-      "updatedAt": "2026-09-03T06:09:48Z"
+      "updatedAt": "2026-09-03T18:17:57Z"
     },
     {
-      "id": "kbo-2026-09-11-키움-삼성-daegu-18:30-regular-1",
+      "id": "20260911WOSS0",
       "date": "2026-09-11",
       "time": "18:30",
       "homeTeamId": 7,
@@ -9084,7 +9084,7 @@
       "homeScore": null,
       "awayScore": null,
       "memo": "",
-      "updatedAt": "2026-09-03T06:09:48Z"
+      "updatedAt": "2026-09-03T18:17:57Z"
     },
     {
       "id": "kbo-2026-09-12-KIA-KT-suwon-17:00-regular-1",
