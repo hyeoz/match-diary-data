@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "dataVersion": "886808a5ead922a0f744e4321de6c39603224b2694ad9cedee9c3e601aa3e567",
-  "generatedAt": "2026-09-15T14:05:44Z",
+  "dataVersion": "4b6574e4e0d01afb8861a091fc8f4c0fd03917b5deda56b083c9eed731382726",
+  "generatedAt": "2026-09-15T18:40:09Z",
   "source": {
     "name": "KBO 공식 경기 일정",
     "url": "https://www.koreabaseball.com/Schedule/Schedule.aspx"
@@ -14,7 +14,7 @@
       "shortName": "창원",
       "latitude": 35.2225,
       "longitude": 128.5823,
-      "updatedAt": "2026-09-15T14:05:44Z"
+      "updatedAt": "2026-09-15T18:40:09Z"
     },
     {
       "id": "daegu",
@@ -22,7 +22,7 @@
       "shortName": "대구",
       "latitude": 35.8412,
       "longitude": 128.6812,
-      "updatedAt": "2026-09-15T14:05:44Z"
+      "updatedAt": "2026-09-15T18:40:09Z"
     },
     {
       "id": "daejeon",
@@ -30,7 +30,7 @@
       "shortName": "대전",
       "latitude": 36.3171,
       "longitude": 127.4292,
-      "updatedAt": "2026-09-15T14:05:44Z"
+      "updatedAt": "2026-09-15T18:40:09Z"
     },
     {
       "id": "gocheok",
@@ -38,7 +38,7 @@
       "shortName": "고척",
       "latitude": 37.4982,
       "longitude": 126.8671,
-      "updatedAt": "2026-09-15T14:05:44Z"
+      "updatedAt": "2026-09-15T18:40:09Z"
     },
     {
       "id": "gwangju",
@@ -46,7 +46,7 @@
       "shortName": "광주",
       "latitude": 35.1681,
       "longitude": 126.8891,
-      "updatedAt": "2026-09-15T14:05:44Z"
+      "updatedAt": "2026-09-15T18:40:09Z"
     },
     {
       "id": "incheon",
@@ -54,7 +54,7 @@
       "shortName": "랜더스필드",
       "latitude": 37.4369,
       "longitude": 126.6933,
-      "updatedAt": "2026-09-15T14:05:44Z"
+      "updatedAt": "2026-09-15T18:40:09Z"
     },
     {
       "id": "jamsil",
@@ -62,7 +62,7 @@
       "shortName": "잠실",
       "latitude": 37.5122,
       "longitude": 127.0719,
-      "updatedAt": "2026-09-15T14:05:44Z"
+      "updatedAt": "2026-09-15T18:40:09Z"
     },
     {
       "id": "pohang",
@@ -70,7 +70,7 @@
       "shortName": "포항",
       "latitude": null,
       "longitude": null,
-      "updatedAt": "2026-09-15T14:05:44Z"
+      "updatedAt": "2026-09-15T18:40:09Z"
     },
     {
       "id": "sajik",
@@ -78,7 +78,7 @@
       "shortName": "사직",
       "latitude": 35.194,
       "longitude": 129.0615,
-      "updatedAt": "2026-09-15T14:05:44Z"
+      "updatedAt": "2026-09-15T18:40:09Z"
     },
     {
       "id": "suwon",
@@ -86,7 +86,7 @@
       "shortName": "수원",
       "latitude": 37.2998,
       "longitude": 127.0097,
-      "updatedAt": "2026-09-15T14:05:44Z"
+      "updatedAt": "2026-09-15T18:40:09Z"
     }
   ],
   "games": [
@@ -9542,7 +9542,7 @@
       "updatedAt": "2026-09-14T15:34:51Z"
     },
     {
-      "id": "kbo-2026-09-23-KIA-두산-jamsil-18:30-regular-1",
+      "id": "20260923HTOB0",
       "date": "2026-09-23",
       "time": "18:30",
       "homeTeamId": 9,
@@ -9552,23 +9552,10 @@
       "homeScore": null,
       "awayScore": null,
       "memo": "",
-      "updatedAt": "2026-09-03T06:09:48Z"
+      "updatedAt": "2026-09-15T18:40:09Z"
     },
     {
-      "id": "kbo-2026-09-23-NC-KT-suwon-18:30-regular-1",
-      "date": "2026-09-23",
-      "time": "18:30",
-      "homeTeamId": 4,
-      "awayTeamId": 6,
-      "stadiumId": "suwon",
-      "status": "scheduled",
-      "homeScore": null,
-      "awayScore": null,
-      "memo": "",
-      "updatedAt": "2026-09-03T06:09:48Z"
-    },
-    {
-      "id": "kbo-2026-09-23-롯데-한화-daejeon-18:30-regular-1",
+      "id": "20260923LTHH0",
       "date": "2026-09-23",
       "time": "18:30",
       "homeTeamId": 10,
@@ -9578,7 +9565,20 @@
       "homeScore": null,
       "awayScore": null,
       "memo": "",
-      "updatedAt": "2026-09-03T06:09:48Z"
+      "updatedAt": "2026-09-15T18:40:09Z"
+    },
+    {
+      "id": "20260923NCKT0",
+      "date": "2026-09-23",
+      "time": "18:30",
+      "homeTeamId": 4,
+      "awayTeamId": 6,
+      "stadiumId": "suwon",
+      "status": "scheduled",
+      "homeScore": null,
+      "awayScore": null,
+      "memo": "",
+      "updatedAt": "2026-09-15T18:40:09Z"
     },
     {
       "id": "kbo-2026-09-24-NC-KT-suwon-17:00-regular-1",
