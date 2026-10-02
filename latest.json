@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "currentSeason": 2026,
-  "generatedAt": "2026-10-01T20:03:52Z",
+  "generatedAt": "2026-10-02T09:15:59Z",
   "seasons": [
     {
       "season": 2026,
       "path": "schedules/2026.json",
-      "sha256": "7bd94302859ad32b3ed0ea783b9fbbc8d8a47d9646863ad854dbb21932a8d422",
-      "dataVersion": "d62a6b97682ed6d10666d05cc55ff8a5be15a5df6cd3768c883018821f2d7b0d",
+      "sha256": "728327a6370b21dfa6ecadbcd9a5247b50c22ecba82550f116a7d56a14de0522",
+      "dataVersion": "04a83cf25b4349f2cdc1cc33d3748c521952900f2a2ba3c182c8b9e251b76f0d",
       "gameCount": 793,
-      "generatedAt": "2026-10-01T20:03:52Z"
+      "generatedAt": "2026-10-02T09:15:59Z"
     }
   ]
 }
