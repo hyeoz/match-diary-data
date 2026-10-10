@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "dataVersion": "8ebdbe66beb638b6104567d2680e5ae23d057bf4704bac2acd1e1c0fb20f769c",
-  "generatedAt": "2026-10-10T09:18:36Z",
+  "dataVersion": "cebb99a6cde1e44f2ed39007a890d7137bb894c49aa9b1e1aa2d596a0da1741c",
+  "generatedAt": "2026-10-10T19:05:48Z",
   "source": {
     "name": "KBO 공식 경기 일정",
     "url": "https://www.koreabaseball.com/Schedule/Schedule.aspx"
@@ -14,7 +14,7 @@
       "shortName": "창원",
       "latitude": 35.2225,
       "longitude": 128.5823,
-      "updatedAt": "2026-10-10T09:18:36Z"
+      "updatedAt": "2026-10-10T19:05:48Z"
     },
     {
       "id": "daegu",
@@ -22,7 +22,7 @@
       "shortName": "대구",
       "latitude": 35.8412,
       "longitude": 128.6812,
-      "updatedAt": "2026-10-10T09:18:36Z"
+      "updatedAt": "2026-10-10T19:05:48Z"
     },
     {
       "id": "daejeon",
@@ -30,7 +30,7 @@
       "shortName": "대전",
       "latitude": 36.3171,
       "longitude": 127.4292,
-      "updatedAt": "2026-10-10T09:18:36Z"
+      "updatedAt": "2026-10-10T19:05:48Z"
     },
     {
       "id": "gocheok",
@@ -38,7 +38,7 @@
       "shortName": "고척",
       "latitude": 37.4982,
       "longitude": 126.8671,
-      "updatedAt": "2026-10-10T09:18:36Z"
+      "updatedAt": "2026-10-10T19:05:48Z"
     },
     {
       "id": "gwangju",
@@ -46,7 +46,7 @@
       "shortName": "광주",
       "latitude": 35.1681,
       "longitude": 126.8891,
-      "updatedAt": "2026-10-10T09:18:36Z"
+      "updatedAt": "2026-10-10T19:05:48Z"
     },
     {
       "id": "incheon",
@@ -54,7 +54,7 @@
       "shortName": "랜더스필드",
       "latitude": 37.4369,
       "longitude": 126.6933,
-      "updatedAt": "2026-10-10T09:18:36Z"
+      "updatedAt": "2026-10-10T19:05:48Z"
     },
     {
       "id": "jamsil",
@@ -62,7 +62,7 @@
       "shortName": "잠실",
       "latitude": 37.5122,
       "longitude": 127.0719,
-      "updatedAt": "2026-10-10T09:18:36Z"
+      "updatedAt": "2026-10-10T19:05:48Z"
     },
     {
       "id": "pohang",
@@ -70,7 +70,7 @@
       "shortName": "포항",
       "latitude": null,
       "longitude": null,
-      "updatedAt": "2026-10-10T09:18:36Z"
+      "updatedAt": "2026-10-10T19:05:48Z"
     },
     {
       "id": "sajik",
@@ -78,7 +78,7 @@
       "shortName": "사직",
       "latitude": 35.194,
       "longitude": 129.0615,
-      "updatedAt": "2026-10-10T09:18:36Z"
+      "updatedAt": "2026-10-10T19:05:48Z"
     },
     {
       "id": "suwon",
@@ -86,7 +86,7 @@
       "shortName": "수원",
       "latitude": 37.2998,
       "longitude": 127.0097,
-      "updatedAt": "2026-10-10T09:18:36Z"
+      "updatedAt": "2026-10-10T19:05:48Z"
     }
   ],
   "games": [
@@ -10296,43 +10296,43 @@
       "updatedAt": "2026-10-09T09:55:12Z"
     },
     {
-      "id": "kbo-2026-10-10-LG-롯데-sajik-14:00-regular-1",
+      "id": "20261010LGLT0",
       "date": "2026-10-10",
       "time": "14:00",
       "homeTeamId": 8,
       "awayTeamId": 2,
       "stadiumId": "sajik",
       "status": "final",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 3,
+      "awayScore": 4,
       "memo": "",
-      "updatedAt": "2026-10-10T09:18:36Z"
+      "updatedAt": "2026-10-10T19:05:48Z"
     },
     {
-      "id": "kbo-2026-10-10-NC-한화-daejeon-17:00-regular-1",
+      "id": "20261010NCHH0",
       "date": "2026-10-10",
       "time": "17:00",
       "homeTeamId": 10,
       "awayTeamId": 6,
       "stadiumId": "daejeon",
       "status": "final",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 8,
+      "awayScore": 9,
       "memo": "",
-      "updatedAt": "2026-10-10T09:18:36Z"
+      "updatedAt": "2026-10-10T19:05:48Z"
     },
     {
-      "id": "kbo-2026-10-10-SSG-KIA-gwangju-17:00-regular-1",
+      "id": "20261010SKHT0",
       "date": "2026-10-10",
       "time": "17:00",
       "homeTeamId": 5,
       "awayTeamId": 1,
       "stadiumId": "gwangju",
       "status": "final",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 8,
+      "awayScore": 5,
       "memo": "",
-      "updatedAt": "2026-10-10T09:18:36Z"
+      "updatedAt": "2026-10-10T19:05:48Z"
     },
     {
       "id": "20261011KTSS0",
