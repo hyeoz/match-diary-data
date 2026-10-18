@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "season": 2026,
-  "dataVersion": "7b3fae4e97f017589612371f74d1213e8ce9f7ad263677daa3e628dfd5b3d875",
-  "generatedAt": "2026-10-18T07:41:49Z",
+  "dataVersion": "4cdbd7ccd7cee95eb23eec624a482e4d480ccd34ac37dae0d56edc74a638a83e",
+  "generatedAt": "2026-10-18T12:56:07Z",
   "source": {
     "name": "KBO 공식 경기 일정",
     "url": "https://www.koreabaseball.com/Schedule/Schedule.aspx"
@@ -14,7 +14,7 @@
       "shortName": "창원",
       "latitude": 35.2225,
       "longitude": 128.5823,
-      "updatedAt": "2026-10-18T07:41:49Z"
+      "updatedAt": "2026-10-18T12:56:07Z"
     },
     {
       "id": "daegu",
@@ -22,7 +22,7 @@
       "shortName": "대구",
       "latitude": 35.8412,
       "longitude": 128.6812,
-      "updatedAt": "2026-10-18T07:41:49Z"
+      "updatedAt": "2026-10-18T12:56:07Z"
     },
     {
       "id": "daejeon",
@@ -30,7 +30,7 @@
       "shortName": "대전",
       "latitude": 36.3171,
       "longitude": 127.4292,
-      "updatedAt": "2026-10-18T07:41:49Z"
+      "updatedAt": "2026-10-18T12:56:07Z"
     },
     {
       "id": "gocheok",
@@ -38,7 +38,7 @@
       "shortName": "고척",
       "latitude": 37.4982,
       "longitude": 126.8671,
-      "updatedAt": "2026-10-18T07:41:49Z"
+      "updatedAt": "2026-10-18T12:56:07Z"
     },
     {
       "id": "gwangju",
@@ -46,7 +46,7 @@
       "shortName": "광주",
       "latitude": 35.1681,
       "longitude": 126.8891,
-      "updatedAt": "2026-10-18T07:41:49Z"
+      "updatedAt": "2026-10-18T12:56:07Z"
     },
     {
       "id": "incheon",
@@ -54,7 +54,7 @@
       "shortName": "랜더스필드",
       "latitude": 37.4369,
       "longitude": 126.6933,
-      "updatedAt": "2026-10-18T07:41:49Z"
+      "updatedAt": "2026-10-18T12:56:07Z"
     },
     {
       "id": "jamsil",
@@ -62,7 +62,7 @@
       "shortName": "잠실",
       "latitude": 37.5122,
       "longitude": 127.0719,
-      "updatedAt": "2026-10-18T07:41:49Z"
+      "updatedAt": "2026-10-18T12:56:07Z"
     },
     {
       "id": "pohang",
@@ -70,7 +70,7 @@
       "shortName": "포항",
       "latitude": null,
       "longitude": null,
-      "updatedAt": "2026-10-18T07:41:49Z"
+      "updatedAt": "2026-10-18T12:56:07Z"
     },
     {
       "id": "sajik",
@@ -78,7 +78,7 @@
       "shortName": "사직",
       "latitude": 35.194,
       "longitude": 129.0615,
-      "updatedAt": "2026-10-18T07:41:49Z"
+      "updatedAt": "2026-10-18T12:56:07Z"
     },
     {
       "id": "suwon",
@@ -86,7 +86,7 @@
       "shortName": "수원",
       "latitude": 37.2998,
       "longitude": 127.0097,
-      "updatedAt": "2026-10-18T07:41:49Z"
+      "updatedAt": "2026-10-18T12:56:07Z"
     }
   ],
   "games": [
@@ -10426,17 +10426,17 @@
       "updatedAt": "2026-10-17T12:38:37Z"
     },
     {
-      "id": "kbo-2026-10-18-LG-KIA-gwangju-14:00-postseason-1",
+      "id": "20261018LGHT0",
       "date": "2026-10-18",
       "time": "14:00",
       "homeTeamId": 5,
       "awayTeamId": 2,
       "stadiumId": "gwangju",
       "status": "final",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 6,
+      "awayScore": 3,
       "memo": "준PO 2차전",
-      "updatedAt": "2026-10-18T07:41:49Z"
+      "updatedAt": "2026-10-18T12:56:07Z"
     },
     {
       "id": "20261020HTLG0",
